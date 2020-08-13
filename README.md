@@ -1,4 +1,5 @@
-# media_query
+# Fundamental Flutter by ArdhikaRafi
+# Media_query
 
 A new Flutter project.
 
